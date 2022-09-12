@@ -9,13 +9,13 @@
 
 ## Project 2 [Live link]()
 
--Skills Gained in this project 
-    -Learned to use Css Positon property.
-    -Learned to use pseudo classes like **:nth-child(),:last-child(), :first-child**.
+- Skills Gained in this project 
+    - Learned to use Css Positon property.
+    - Learned to use pseudo classes like **:nth-child(),:last-child(), :first-child**.
     
 
 ## Time Taken to Complete this project
     -2 Hours taken to Complete it.
 
-###ScreenShot
+### ScreenShot
 ![Desktop](./ScreenShot/2.png)
